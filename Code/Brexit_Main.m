@@ -8,7 +8,7 @@ close all
 
 %% 1. DATA LOADING AND TRANSFORMATION
 % Load the Excel file containing UK macro data (2000 - 2024)
-filename = fullfile('..', 'data', 'UK_Brexit_Data.xlsx');
+filename = fullfile('..', 'Data', 'UK_Brexit_Data.xlsx');
 raw_data = xlsread(filename);
 
 % Determine start column automatically (in case Excel reads dates as col 1)
