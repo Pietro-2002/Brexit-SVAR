@@ -51,4 +51,4 @@ brexit-svar/
 ```
 
 ## How to run
-Open MATLAB in the `code/` folder and run the main script. Figures are saved to `output/`.
+Open MATLAB in the `code/` folder and run `Brexit_Main.m`. The script selects the lag order, runs the bootstrap and the sign-restriction identification, and displays the impulse responses, the variance decomposition and the Cholesky comparison.
