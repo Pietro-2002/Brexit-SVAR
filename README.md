@@ -54,3 +54,6 @@ brexit-svar/
 Open MATLAB in the `code/` folder and run `Brexit_Main.m`. The script selects the lag order, runs the bootstrap and the sign-restriction identification, and displays the impulse responses, the variance decomposition and the Cholesky comparison.
 ## Requirements
 MATLAB with the Statistics and Machine Learning Toolbox.
+MATLAB R2016b or later, with the Statistics and Machine Learning Toolbox.
+MATLAB R2018b or later, with the Statistics and Machine Learning Toolbox.
+
